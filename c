@@ -1,9 +1,9 @@
-# 0 "main.c"
+# 0 "beats.c"
 # 0 "<built-in>"
 # 0 "<command-line>"
 # 1 "/usr/include/stdc-predef.h" 1 3 4
 # 0 "<command-line>" 2
-# 1 "main.c"
+# 1 "beats.c"
 # 1 "/usr/include/stdio.h" 1 3 4
 # 28 "/usr/include/stdio.h" 3 4
 # 1 "/usr/include/x86_64-linux-gnu/bits/libc-header-start.h" 1 3 4
@@ -809,7 +809,7 @@ extern int __uflow (FILE *);
 extern int __overflow (FILE *, int);
 # 983 "/usr/include/stdio.h" 3 4
 
-# 2 "main.c" 2
+# 2 "beats.c" 2
 
 
 
@@ -817,7 +817,7 @@ extern int __overflow (FILE *, int);
 
 
 
-# 8 "main.c"
+# 8 "beats.c"
 int main(void)
 {
      return (0);

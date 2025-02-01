@@ -1,5 +1,5 @@
 #!/bin/bash
 # Runs the preprocessor on the file specified in $CFILE and saves the output to 'c'
 
-gcc -E "$CFILE" -o c
+gcc -E "$CFILE" > c
 
